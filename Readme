@@ -1,0 +1,22 @@
+Right now this repo just contains a covariance matrix. Matrix represents variance of log10 of parameters listed in order:
+k_i
+k_e
+k_off
+k_on
+K_1
+K_2
+K_i,PPi
+k_growth
+B
+k_d
+K_HNTP
+K_HMgNTP
+K_HPPi
+K_HMgPPi
+K_H2PPi
+K_H2MgPPi
+K_MgNTP
+K_Mg2NTP
+K_MgPPi
+K_Mg2PPi
+Mg2PPi_eq
